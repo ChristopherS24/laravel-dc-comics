@@ -6,6 +6,11 @@
             'active' => true,
         ],
         [
+            'url' => route('comics.index'),
+            'label' => 'Comics',
+            'active' => true,
+        ],
+        [
             'url' => '/chi-siamo',
             'label' => 'Chi siamo',
             'active' => true,
